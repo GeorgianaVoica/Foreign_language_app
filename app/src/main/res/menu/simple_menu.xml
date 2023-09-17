@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home2_item"
+        android:icon="@drawable/ic_hom2"
+        android:iconTint="@color/white"
+        app:showAsAction="always"
+        android:title="Home" />
+    <item
+        android:id="@+id/settings2_item"
+        android:title="Despre" />
+    <item
+        android:id="@+id/logout2_item"
+        android:title="Logout" />
+</menu>

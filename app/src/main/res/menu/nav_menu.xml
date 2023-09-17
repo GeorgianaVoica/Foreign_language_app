@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = 'navigation_view'>
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/tv_user_name"
+            android:title="Bun venit x">
+            <menu>
+                <item
+                    android:id="@+id/tv_level_display"
+                    android:title="Nivelul tău este "
+                    android:enabled="false"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+            </menu>
+        </item>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home">
+
+        </item>
+        <item
+            android:id="@+id/nav_top"
+            android:icon="@drawable/ic_sharp_tag_faces_24"
+            android:title="Clasament"></item>
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Setări"></item>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout"></item>
+    </group>
+
+</menu>

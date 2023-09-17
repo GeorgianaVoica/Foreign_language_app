@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Los</string>
+    <string name="tvEmail">E-mail</string>
+    <string name="hintPassword">Parola</string>
+    <string name="hintEmail">Email</string>
+    <string name="signupText">Inregistrare</string>
+    <string name="already_an_user_login">Ai deja un cont? Loghează-te</string>
+    <string name="sign_up_bt">Inregistrare</string>
+    <string name="login_tv">Autentificare</string>
+    <string name="not_yet_registered_sign_up">Nu ai un cont? Creează-l acum!</string>
+    <string name="name">Name</string>
+    <string name="title_activity_main_page_acttivity">MainPageActtivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">Deschide</string>
+    <string name="close_nav">Inchide</string>
+    <string name="lectii">Lecții</string>
+    <string name="începător"><font size="26">            Începător</font></string>
+    <string name="intermediar"><font size="26">          Intermediar</font></string>
+    <string name="avansat"><font size="26">             Avansat</font></string>
+    <string name="Lecția1"><font size="26">            Lecția 1</font></string>
+    <string name="Lecția2"><font size="26">            Lecția 2</font></string>
+    <string name="Lecția3"><font size="26">            Lecția 3</font></string>
+    <string name="VocabularIncepator"><font size="26">            Vocabular</font></string>
+
+
+    <string-array name="profile_conrols">
+        <item>Lecții</item>
+        <item>Publică anunț</item>
+    </string-array>
+
+    <string-array name="lesson_type">
+        <item>Cursuri</item>
+        <item>Vezi oferte</item>
+    </string-array>
+
+</resources>
